@@ -1,5 +1,6 @@
 # GetAndCleanProject
-Project for MOOC "Getting and cleaning Data" from Coursera 
+Project for MOOC "Getting and cleaning Data" from Coursera
+-----------------------------------------------------------
 
 The Project is divided in six functions.
 
