@@ -27,6 +27,6 @@ The file is commented in order to have technical information about the various f
 
 Todo :
 - Improve the speed of the MergeDataset function
-- Improve MakeTidyDs. The variables are static. An automatic Generation of the summarize commands should be implemented.
+- Improve MakeTidyDs. The variables are static. An automatic Generation of the summarize commands parameters should be implemented.
  
 
