@@ -1,0 +1,323 @@
+							DATA DICTIONARY _ Project Human Activity Recognition Using Smartphones 
+
+The file has a tabular structure. Each line is made  of 561 cells having a width of 16 characters (561 * 16 = 8976)
+
+1 timeBodyAcc_mean_X
+	Unit : m.s_2
+
+	
+2 timeBodyAcc_mean_Y
+	Unit : m.s_2
+
+
+3 timeBodyAcc_mean_Z
+	Unit : m.s_2
+
+
+4 timeBodyAcc_std_X
+	Unit : m.s_2
+
+
+5 timeBodyAcc_std_Y
+	Unit : m.s_2
+
+
+6 timeBodyAcc_std_Z
+	Unit : m.s_2
+
+
+41 timeGravityAcc_mean_X
+	Unit : m.s_2
+
+
+42 timeGravityAcc_mean_Y
+	Unit : m.s_2
+
+
+43 timeGravityAcc_mean_Z
+	Unit : m.s_2
+
+
+44 timeGravityAcc_std_X
+	Unit : m.s_2
+
+
+45 timeGravityAcc_std_Y
+	Unit : m.s_2
+
+
+46 timeGravityAcc_std_Z
+	Unit : m.s_2
+
+
+81 timeBodyAccJerk_mean_X
+	Unit : m.s_2
+
+
+82 timeBodyAccJerk_mean_Y
+	Unit : m.s_2
+
+
+83 timeBodyAccJerk_mean_Z
+	Unit : m.s_2
+
+
+84 timeBodyAccJerk_std_X
+	Unit : m.s_2
+
+
+85 timeBodyAccJerk_std_Y
+	Unit : m.s_2
+
+
+86 timeBodyAccJerk_std_Z
+	Unit : m.s_2
+
+
+121 timeBodyGyro_mean_X
+	Unit : m.s_2
+
+
+122 timeBodyGyro_mean_Y
+	Unit : m.s_2
+
+
+123 timeBodyGyro_mean_Z
+	Unit : m.s_2
+
+
+124 timeBodyGyro_std_X
+	Unit : m.s_2
+
+
+125 timeBodyGyro_std_Y
+	Unit : m.s_2
+
+
+126 timeBodyGyro_std_Z
+	Unit : m.s_2
+
+
+161 timeBodyGyroJerk_mean_X
+	Unit : m.s_2
+
+
+162 timeBodyGyroJerk_mean_Y
+	Unit : m.s_2
+
+
+163 timeBodyGyroJerk_mean_Z
+	Unit : m.s_2
+
+
+164 timeBodyGyroJerk_std_X
+	Unit : m.s_2
+
+
+165 timeBodyGyroJerk_std_Y
+	Unit : m.s_2
+
+
+166 timeBodyGyroJerk_std_Z
+	Unit : m.s_2
+
+
+201 timeBodyAccMag_mean
+	Unit : m.s_2
+
+
+202 timeBodyAccMag_std
+	Unit : m.s_2
+
+
+214 timeGravityAccMag_mean
+	Unit : m.s_2
+
+
+215 timeGravityAccMag_std
+	Unit : m.s_2
+
+
+227 timeBodyAccJerkMag_mean
+	Unit : m.s_2
+
+
+228 timeBodyAccJerkMag_std
+	Unit : m.s_2
+
+
+240 timeBodyGyroMag_mean
+	Unit : m.s_2
+
+
+241 timeBodyGyroMag_std
+	Unit : m.s_2
+
+
+253 timeBodyGyroJerkMag_mean
+	Unit : m.s_2
+
+
+254 timeBodyGyroJerkMag_std
+	Unit : m.s_2
+
+
+266 freqBodyAcc_mean_X
+	Unit : m.s_2
+
+
+267 freqBodyAcc_mean_Y
+	Unit : m.s_2
+
+
+268 freqBodyAcc_mean_Z
+	Unit : m.s_2
+
+
+269 freqBodyAcc_std_X
+	Unit : m.s_2
+
+
+270 freqBodyAcc_std_Y
+	Unit : m.s_2
+
+
+271 freqBodyAcc_std_Z
+	Unit : m.s_2
+
+
+294 fBodyAcc_meanFreq_X
+	Unit : hz
+
+
+295 freqBodyAcc_meanFreq_Y
+	Unit : hz
+
+
+296 freqBodyAcc_meanFreq_Z
+	Unit : hz
+
+
+345 freqBodyAccJerk_mean_X
+	Unit : m.s_2
+
+
+346 freqBodyAccJerk_mean_Y
+	Unit : m.s_2
+
+
+347 freqBodyAccJerk_mean_Z
+	Unit : m.s_2
+
+
+348 freqBodyAccJerk_std_X
+	Unit : m.s_2
+
+
+349 freqBodyAccJerk_std_Y
+	Unit : m.s_2
+
+
+350 freqBodyAccJerk_std_Z
+	Unit : m.s_2
+
+
+373 freqBodyAccJerk_meanFreq_X
+	Unit : hz
+
+
+374 freqBodyAccJerk_meanFreq_Y
+	Unit : hz
+
+
+375 freqBodyAccJerk_meanFreq_Z
+	Unit : hz
+
+
+424 freqBodyGyro_mean_X
+	Unit : m.s_2
+
+
+425 freqBodyGyro_mean_Y
+	Unit : m.s_2
+
+
+426 freqBodyGyro_mean_Z
+	Unit : m.s_2
+
+
+427 freqBodyGyro_std_X
+	Unit : m.s_2
+
+
+428 freqBodyGyro_std_Y
+	Unit : m.s_2
+
+
+429 freqBodyGyro_std_Z
+	Unit : m.s_2
+
+
+452 freqBodyGyro_meanFreq_X
+	Unit : hz
+
+
+453 freqBodyGyro_meanFreq_Y
+	Unit : hz
+
+
+454 freqBodyGyro_meanFreq_Z
+	Unit : hz
+
+
+503 freqBodyAccMag_mean
+	Unit : m.s_2
+
+
+504 freqBodyAccMag_std
+	Unit : m.s_2
+
+
+513 freqBodyAccMag_meanFreq
+	Unit : hz
+
+
+516 freqBodyAccJerkMag_mean
+	Unit : m.s_2
+
+
+517 freqBodyAccJerkMag_std
+	Unit : m.s_2
+
+
+526 freqBodyAccJerkMag_meanFreq
+	Unit : hz
+
+
+529 freqBodyGyroMag_mean
+	Unit : m.s_2
+
+
+530 freqBodyGyroMag_std
+	Unit : m.s_2
+
+
+539 freqBodyGyroMag_meanFreq
+	Unit : hz
+
+
+542 freqBodyGyroJerkMag_mean
+	Unit : m.s_2
+
+
+543 freqBodyGyroJerkMag_std
+	Unit : m.s_2
+
+
+552 freqBodyGyroJerkMag_meanFreq
+	Unit : hz
+
+
+
+
+
