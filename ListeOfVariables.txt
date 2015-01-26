@@ -2,6 +2,8 @@
 
 The file has a tabular structure. Each line is made  of 561 cells having a width of 16 characters (561 * 16 = 8976)
 All the values are numeric values.
+The number in the first column is the initial position of the colum in the untidy data
+
 1 timeBodyAcc_mean_X
 	Unit : m.s_2
 
